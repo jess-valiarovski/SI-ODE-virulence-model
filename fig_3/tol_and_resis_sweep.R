@@ -32,7 +32,6 @@ alpha = seq(0.1,1,0.1) # virulence factor
 m_t = seq(0,1,0.1) # tolerance
 m_r = seq(0,1,0.1) # resistance
 parameter_sweep <- expand.grid(
-  #modify m_t and m_r increments for shorter run time
   m_t = m_t, # tolerance
   m_r = m_r, # resistance
   beta = 0.4, # max transmission rate
