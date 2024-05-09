@@ -1,3 +1,4 @@
+# 12:40
 # load libraries 
 #install.packages(pacman)
 pacman::p_load(deSolve,ggplot2,plyr)
@@ -18,7 +19,7 @@ init <- c(
 )
 # initate simulation duration
 times <- seq(0, 500, by = 1)
-# simulation 3: parameter sweep host resistance and tolerance
+
 
 #initate parameters for tolerance simulation
 m_t = seq(0,1,0.01)
