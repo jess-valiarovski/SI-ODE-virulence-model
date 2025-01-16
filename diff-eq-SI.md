@@ -31,7 +31,7 @@ The research question I explored in Allison Shaw’s lab at the University
 of Minnesota Department of Ecology, Evolution, and Behavior is whether
 the host adaptations tolerance and resistance have an effect on the
 optimal pathogen virulence and how effective is the virulence strategy
-is in maximizing infection spread. By using a theoretical model, the
+in maximizing infection spread. By using a theoretical model, the
 systemic dynamics and interplay of disease transmission become apparent.
 These insights can be used to inform ecological host population strategy
 effectiveness in minimizing pathogen harm.
