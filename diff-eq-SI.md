@@ -1,5 +1,5 @@
 ODE Analysis of Pathogen Fitness and R0
-——–updating markdown in progress!
+——updating markdown in progress!
 ================
 Jess Valiarovski
 2025-01-16
