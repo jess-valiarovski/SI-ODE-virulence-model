@@ -1,4 +1,5 @@
 ODE Analysis of Pathogen Fitness and R0
+——–updating markdown in progress!
 ================
 Jess Valiarovski
 2025-01-16
@@ -220,5 +221,3 @@ tolerance are identical equations because the host traits in the model
 are constants, but the basic reproductive $R_0$ equations when virulence
 level is varied will be different because those same constants affect
 the trajectory curve differently when virulence level alpha is varied.
-
-——–updating markdown in progress!
