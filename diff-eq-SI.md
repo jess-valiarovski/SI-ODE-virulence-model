@@ -34,7 +34,9 @@ optimal pathogen virulence and how effective is the virulence strategy
 in maximizing infection spread. By using a theoretical model, the
 systemic dynamics and interplay of disease transmission become apparent.
 These insights can be used to inform ecological host population strategy
-effectiveness in minimizing pathogen harm. This model is inspired by the work in the below citation:
+effectiveness in minimizing pathogen harm. 
+
+This model is inspired by the work in the below citation:
 
 Torstenson, M., & Shaw, A. K. (2024). Pathogen evolution following spillover from a resident to a migrant host population depends on interactions between host pace of life and tolerance to infection. Journal of Animal Ecology, 93, 475–487. https://doi.org/10.1111/1365-2656.14075
 
