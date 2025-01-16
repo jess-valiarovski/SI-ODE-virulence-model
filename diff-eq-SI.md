@@ -27,14 +27,16 @@ species, but is a detriment to other species.
 
 ## Research Question
 
-The research question I explored in Allison Shaw’s lab at the University
+The research question I explored in Allison Shaw’s lab with mentor Martha Torstenson at the University
 of Minnesota Department of Ecology, Evolution, and Behavior is whether
 the host adaptations tolerance and resistance have an effect on the
 optimal pathogen virulence and how effective is the virulence strategy
 in maximizing infection spread. By using a theoretical model, the
 systemic dynamics and interplay of disease transmission become apparent.
 These insights can be used to inform ecological host population strategy
-effectiveness in minimizing pathogen harm.
+effectiveness in minimizing pathogen harm. This model extends off the work of Martha Torestenson's in the below citation:
+
+Torstenson, M., & Shaw, A. K. (2024). Pathogen evolution following spillover from a resident to a migrant host population depends on interactions between host pace of life and tolerance to infection. Journal of Animal Ecology, 93, 475–487. https://doi.org/10.1111/1365-2656.14075
 
 ## Model Overview
 
@@ -78,7 +80,7 @@ $$
 Realized mortality rate of infected hosts by a pathogen with virulence
 strategy $z$. Host tolerance $m_T$ decreases mortality rate by
 infection. Mortality is parabolic, where increasing transmission is
-traded off with higher infection-mortality rates.
+traded off with higher infection-mortality rates. 
 
 ## ODE Model
 
