@@ -27,7 +27,7 @@ species, but is a detriment to other species.
 
 ## Research Question
 
-The research question I explored in Allison Shaw’s lab with mentor Martha Torstenson at the University
+The research question I explored in Allison Shaw’s lab with Martha Torstenson and Allison Shaw at the University
 of Minnesota Department of Ecology, Evolution, and Behavior is whether
 the host adaptations tolerance and resistance have an effect on the
 optimal pathogen virulence and how effective is the virulence strategy
