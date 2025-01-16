@@ -72,7 +72,7 @@ Realized transmission is a function of virulence $\alpha_z$ and scalar
 term $m_R$ as the susceptible host’s resistance to new infection.
 
 $$
-\mu_I = (\sqrt{\mu_S} + (1 - m_T) \left(\frac{\beta(\alpha_z)}{\beta_{\text{max}}}\right)^2
+\mu_I = (\sqrt{\mu_S} + (1 - m_T) \left(\frac{\beta(\alpha_z)}{\beta_{\text{max}}}\right))^2
 $$
 
 Realized mortality rate of infected hosts by a pathogen with virulence
