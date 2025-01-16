@@ -130,6 +130,7 @@ divided by the total infected individuals in the population.
 | $V(X)$               | Mean pathogen strategy                         | Evolves                                  |
 
 ### ODE Analysis
+Figures 1-3 in the github repository are parameter sweep simulations of the equations above.
 
 The $R_0$ equation divides the favorable pathogen rates (that allow it
 to proliferate) by the unfavorable/trade-off rates, giving you a
@@ -148,7 +149,7 @@ Where: - $\beta(\alpha)$: Transmission rate as a function of $\alpha$
 
 - $\gamma$: Recovery rate
 
-## Goals
+## ODE analysis Goals
 
 1.  Investigate the conditions under which $R_0 > 1$, $R_0 = 0$, or
     $R_0 < 1$.
