@@ -8,9 +8,11 @@
 
 ---
 
-## 📌 **1. Project Overview**  
+## 📌 **1. Research Q & Project Overview**  
 
-How do host adaptations impact pathogen evolution? This project explores the relationship between **host resistance, tolerance, and pathogen virulence** using **Ordinary Differential Equations (ODEs)** to model infectious disease dynamics.  
+### **How do host adaptations impact pathogen evolution?** 
+
+This project explores the relationship between **host resistance, tolerance, and pathogen virulence** using **Ordinary Differential Equations (ODEs)** to model infectious disease dynamics.  
 
 ### **🔍 Objectives**  
 ✅ Develop a **Susceptible-Infected (SI) model** that incorporates host adaptations (tolerance & resistance).  
