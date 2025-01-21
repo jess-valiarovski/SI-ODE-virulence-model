@@ -25,7 +25,7 @@ If hosts invest in **tolerance**, pathogens evolve toward **higher virulence** t
 
 ---
 
-## 🛠 **2. Methods & Data Processing**  
+## 🛠 **2. Methods & Analysis**  
 
 ### **📊 Epidemiological Modeling (ODEs)**  
 This project implements a **Susceptible-Infected (SI) model**, where:  
