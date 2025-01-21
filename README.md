@@ -2,8 +2,10 @@
 
 📅 **Project Timeline:** September 2023 - May 2024
 
-📍 **Author:** **Jess Valiarovski**  
+📍 **Author:** **Jess Valiarovski** 
+
 🎓 **Mentorship: **Martha Torstenson** and **Allison Shaw** 
+
 ---
 
 ## 📌 **1. Project Overview**  
