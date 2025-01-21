@@ -1,4 +1,4 @@
-# 🦠 **Virulence and Host Strategies: ODE Analysis of Pathogen Evolution**  
+# 🦠💻 **Virulence and Host Strategies: ODE Analysis of Pathogen Evolution**  
 
 📅 **Project Timeline:** September 2023 - May 2024
 
