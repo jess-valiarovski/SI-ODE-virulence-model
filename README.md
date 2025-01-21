@@ -1,8 +1,8 @@
 # 🦠 **Virulence and Host Strategies: ODE Analysis of Pathogen Evolution**  
 
-📅 **Project Timeline:** January 2025 – Present  
+📅 **Project Timeline:** September 2023 - May 2024
 📍 **Author:** **Jess Valiarovski**  
-🎓 **Mentorship:**Martha Torstenson** and **Allison Shaw** 
+🎓 **Mentorship: **Martha Torstenson** and **Allison Shaw** 
 ---
 
 ## 📌 **1. Project Overview**  
