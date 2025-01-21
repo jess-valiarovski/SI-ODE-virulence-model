@@ -68,6 +68,7 @@ This project implements a **Susceptible-Infected (SI) model**, where:
 ✅ **Numerical Simulations (deSolve, parameter sweeps, R programming)**  
 ✅ **Data Visualization (ggplot2, Desmos, simulation outputs)**  
 ✅ **Evolutionary Epidemiology (Host-Pathogen Interactions, Virulence Evolution)**  
+
 ---
 
 
