@@ -64,10 +64,10 @@ This project implements a **Susceptible-Infected (SI) model**, where:
 
 ## 📌 **4. Technical Skills Demonstrated**  
 
-✅ **Mathematical Modeling (ODEs, R₀ Analysis, Dynamical Systems)**  
-✅ **Numerical Simulations (deSolve, parameter sweeps, R programming)**  
-✅ **Data Visualization (ggplot2, Desmos, simulation outputs)**  
-✅ **Evolutionary Epidemiology (Host-Pathogen Interactions, Virulence Evolution)**  
+✅ **Mathematical Modeling:** (ODEs, R₀ Analysis, Dynamical Systems)  
+✅ **Numerical Simulations:** (deSolve, parameter sweeps, R programming)  
+✅ **Data Visualization:** (ggplot2, Desmos, simulation outputs)  
+✅ **Evolutionary Epidemiology:** (Host-Pathogen Interactions, Virulence Evolution)  
 
 ---
 
