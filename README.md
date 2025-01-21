@@ -4,7 +4,7 @@
 
 📍 **Author:** **Jess Valiarovski** 
 
-🎓 **Mentorship: **Martha Torstenson** and **Allison Shaw** 
+🎓 **Mentorship:** **Martha Torstenson** and **Allison Shaw** 
 
 ---
 
