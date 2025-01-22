@@ -47,14 +47,6 @@ This project implements a **Susceptible-Infected (SI) model**, where:
 
 ---
 
-## 📌 **3. Key Findings & Insights**  
-
-📌 **Higher tolerance (mT)** leads to the evolution of **more virulent pathogens**.  
-📌 **Higher resistance (mR)** leads to **lower transmission rates but does not lower virulence**.  
-📌 The **optimal pathogen strategy** (α*) is the same under resistance and tolerance, but the effect on **R₀ differs**.  
-📌 **Trade-offs:** Pathogens evolve to **maximize R₀**, balancing transmission benefits vs. host mortality costs.  
-📌 These results challenge classical **trade-off theory** and suggest **different evolutionary pressures in resistant vs. tolerant populations**.  
-
 ### **📊 Key Figures**
 1️⃣ **ODE Simulations:** Show how infection spreads in different host populations.  
 2️⃣ **R₀ vs. Virulence Plots:** Identify the optimal virulence strategy under different host conditions.  
